@@ -1,3 +1,3 @@
 # Machine-Learning-Project
-CS 536 - Final Project
+Machie Learning Course Project
 Interpolating/Predicting missing features.
