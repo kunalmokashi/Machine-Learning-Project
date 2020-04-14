@@ -1,5 +1,5 @@
 # Machine-Learning-Project
-Machie Learning Course Project
+Machine Learning Course Project
 Interpolating/Predicting missing features.
 (Dataset - Many Labs project dataset, replicating psychological studies.) 
 
