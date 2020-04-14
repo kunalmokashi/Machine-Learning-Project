@@ -1,4 +1,4 @@
-# Machine-Learning-Project
+# Interpolating missing features.
 Machine Learning Course Project
 Interpolating/Predicting missing features.
 (Dataset - Many Labs project dataset, replicating psychological studies.) 
